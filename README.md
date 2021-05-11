@@ -1,0 +1,5 @@
+![Auth](assets/auth.png?raw=true "Auth")
+![Dashboard](assets/dashboard.png?raw=true "Dashboard")
+![Import Bank Account](assets/import_account.png?raw=true "Import Bank Account")
+![Delete Bank Account](assets/delete_account.png?raw=true "Delete Bank Account")
+![Transactions](assets/transactions.png?raw=true "Transactions")
